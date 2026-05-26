@@ -1,0 +1,6 @@
+#all{height:auto !important;height:500px;}
+#language_list{display:none;}
+#back_button{display:block;}
+#back_button a{text-decoration:none;font-weight:bold;color:#fff;text-transform:uppercase;font-size:.9em;}
+body.rtl #content ul li,
+#content ul li{background-image:none !important;}
